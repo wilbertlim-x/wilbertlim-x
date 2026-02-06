@@ -1,5 +1,5 @@
 <h2>Hi, I'm Wilbert! <img src="https://giphy.com/gifs/bombaysoftwares-hello-wave-hi-spongebob-squarepants-g88xUM1rTwjfLhoRYP" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/gifs/frog-fric-dric-vL8jVjKkqbVh2qdFj0)" width="230">
+<img align='right' src="https://giphy.com/gifs/bombaysoftwares-hello-wave-hi-spongebob-squarepants-g88xUM1rTwjfLhoRYP" width="230">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wilbertcorneliuslim) 
