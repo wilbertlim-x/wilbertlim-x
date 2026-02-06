@@ -1,5 +1,4 @@
-<h2> Hi, I'm Wilbert!</h2>  
-
+<h2>Hi, I'm Wilbert! <img src="https://giphy.com/gifs/bombaysoftwares-hello-wave-hi-spongebob-squarepants-g88xUM1rTwjfLhoRYP" width="50"></h2>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wilbertcorneliuslim) 
 
