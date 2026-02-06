@@ -1,4 +1,4 @@
-<h2>Hi, I'm Wilbert! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm40dW9yaTA1dTgzanBqdXhiMDI1bHFxbG01MDZjN25wcjFwbXducyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vL8jVjKkqbVh2qdFj0/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Wilbert! <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm40dW9yaTA1dTgzanBqdXhiMDI1bHFxbG01MDZjN25wcjFwbXducyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vL8jVjKkqbVh2qdFj0/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd0YnUxbW9yMW1qcG15NTdyeWo2ZXhsbDZmdWRsbDkyM3d3dXh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mgn6xWiu5IPZnDSlk/giphy.gif)" width="50"></h2>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wilbertcorneliuslim) 
