@@ -1,5 +1,11 @@
 <h2>Hi, I'm Wilbert! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm96Z2VxdDBnM2ZhYjNuOWo2OG1hbHdscTN3NGdxYTV5MDd2ejE4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JZLaL7vxYBMwOw4Vjd/giphy.gif" width="50"></h2>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wilbertcorneliuslim) 
 
